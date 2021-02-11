@@ -1,5 +1,5 @@
 <?php
-$gaCode = 'UA-10364217-1';
+$gaCode = 'Pattani, Thailand';
 
 define('GA_CODE', $gaCode);
 define('USERNAME', 'ahmedre');
